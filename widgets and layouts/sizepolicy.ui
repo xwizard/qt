@@ -23,7 +23,10 @@
       <item>
        <widget class="QLabel" name="label">
         <property name="text">
-         <string>BardzodlugiesKłowoktóreniemasensu</string>
+         <string>&amp;Name</string>
+        </property>
+        <property name="buddy">
+         <cstring>lineEdit</cstring>
         </property>
        </widget>
       </item>
